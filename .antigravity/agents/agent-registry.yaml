@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-afghanistan-canal-and-intervention-historian
-  name: Afghanistan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-afghanistan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_af_001
+    name: Afghanistan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_002
+    name: Afghanistan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_003
+    name: Afghanistan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_004
+    name: Afghanistan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_005
+    name: Afghanistan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_006
+    name: Afghanistan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_007
+    name: Afghanistan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_008
+    name: Afghanistan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_009
+    name: Afghanistan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_010
+    name: Afghanistan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_011
+    name: Afghanistan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_012
+    name: Afghanistan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_013
+    name: Afghanistan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_014
+    name: Afghanistan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_015
+    name: Afghanistan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_016
+    name: Afghanistan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_017
+    name: Afghanistan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_018
+    name: Afghanistan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_019
+    name: Afghanistan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_020
+    name: Afghanistan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_021
+    name: Afghanistan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_022
+    name: Afghanistan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_023
+    name: Afghanistan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_024
+    name: Afghanistan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_025
+    name: Afghanistan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_026
+    name: Afghanistan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_027
+    name: Afghanistan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_028
+    name: Afghanistan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_029
+    name: Afghanistan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_030
+    name: Afghanistan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_031
+    name: Afghanistan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_032
+    name: Afghanistan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_033
+    name: Afghanistan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_034
+    name: Afghanistan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_035
+    name: Afghanistan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_036
+    name: Afghanistan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_037
+    name: Afghanistan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_038
+    name: Afghanistan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_039
+    name: Afghanistan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_040
+    name: Afghanistan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_041
+    name: Afghanistan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_042
+    name: Afghanistan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_043
+    name: Afghanistan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_044
+    name: Afghanistan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_045
+    name: Afghanistan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_046
+    name: Afghanistan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_047
+    name: Afghanistan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_048
+    name: Afghanistan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_049
+    name: Afghanistan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_050
+    name: Afghanistan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_051
+    name: Afghanistan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_052
+    name: Afghanistan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_053
+    name: Afghanistan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_054
+    name: Afghanistan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_055
+    name: Afghanistan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_056
+    name: Afghanistan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_057
+    name: Afghanistan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_058
+    name: Afghanistan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_059
+    name: Afghanistan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_060
+    name: Afghanistan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_061
+    name: Afghanistan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_062
+    name: Afghanistan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_063
+    name: Afghanistan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_064
+    name: Afghanistan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_065
+    name: Afghanistan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_066
+    name: Afghanistan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_067
+    name: Afghanistan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_068
+    name: Afghanistan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_069
+    name: Afghanistan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_070
+    name: Afghanistan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_071
+    name: Afghanistan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_072
+    name: Afghanistan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_073
+    name: Afghanistan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_074
+    name: Afghanistan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_075
+    name: Afghanistan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_076
+    name: Afghanistan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_077
+    name: Afghanistan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_078
+    name: Afghanistan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_079
+    name: Afghanistan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_080
+    name: Afghanistan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_081
+    name: Afghanistan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_082
+    name: Afghanistan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_083
+    name: Afghanistan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_084
+    name: Afghanistan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_085
+    name: Afghanistan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_086
+    name: Afghanistan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_087
+    name: Afghanistan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_088
+    name: Afghanistan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_089
+    name: Afghanistan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_090
+    name: Afghanistan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_091
+    name: Afghanistan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_092
+    name: Afghanistan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_093
+    name: Afghanistan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_094
+    name: Afghanistan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_095
+    name: Afghanistan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_096
+    name: Afghanistan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_097
+    name: Afghanistan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_098
+    name: Afghanistan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_099
+    name: Afghanistan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_100
+    name: Afghanistan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_101
+    name: Afghanistan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_102
+    name: Afghanistan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_103
+    name: Afghanistan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_104
+    name: Afghanistan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_105
+    name: Afghanistan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_106
+    name: Afghanistan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_107
+    name: Afghanistan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_108
+    name: Afghanistan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_109
+    name: Afghanistan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_110
+    name: Afghanistan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_111
+    name: Afghanistan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_112
+    name: Afghanistan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_113
+    name: Afghanistan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_114
+    name: Afghanistan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_115
+    name: Afghanistan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_116
+    name: Afghanistan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_117
+    name: Afghanistan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_118
+    name: Afghanistan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_119
+    name: Afghanistan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_120
+    name: Afghanistan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_121
+    name: Afghanistan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_122
+    name: Afghanistan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_123
+    name: Afghanistan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_124
+    name: Afghanistan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_125
+    name: Afghanistan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_126
+    name: Afghanistan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_127
+    name: Afghanistan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_128
+    name: Afghanistan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_129
+    name: Afghanistan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_130
+    name: Afghanistan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_131
+    name: Afghanistan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_132
+    name: Afghanistan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_133
+    name: Afghanistan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_134
+    name: Afghanistan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_135
+    name: Afghanistan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_136
+    name: Afghanistan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_137
+    name: Afghanistan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_138
+    name: Afghanistan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_139
+    name: Afghanistan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_140
+    name: Afghanistan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_141
+    name: Afghanistan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_142
+    name: Afghanistan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_143
+    name: Afghanistan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_144
+    name: Afghanistan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_145
+    name: Afghanistan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_146
+    name: Afghanistan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_147
+    name: Afghanistan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_148
+    name: Afghanistan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_149
+    name: Afghanistan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_150
+    name: Afghanistan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_151
+    name: Afghanistan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_152
+    name: Afghanistan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_153
+    name: Afghanistan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_154
+    name: Afghanistan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_155
+    name: Afghanistan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_156
+    name: Afghanistan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_157
+    name: Afghanistan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_158
+    name: Afghanistan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_159
+    name: Afghanistan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_160
+    name: Afghanistan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_161
+    name: Afghanistan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_162
+    name: Afghanistan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_163
+    name: Afghanistan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_164
+    name: Afghanistan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_165
+    name: Afghanistan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_166
+    name: Afghanistan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_167
+    name: Afghanistan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_168
+    name: Afghanistan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_169
+    name: Afghanistan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_af_170
+    name: Afghanistan Agent 170
+    status: ACTIVE_SCAFFOLD

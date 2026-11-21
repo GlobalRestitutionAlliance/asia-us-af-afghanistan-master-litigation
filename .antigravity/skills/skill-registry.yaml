@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: afghanistanan-restitution-roadmap-and-qsf-trust-execution
-  name: Afghanistanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/afghanistanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_af_001
+    name: Afghanistan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_002
+    name: Afghanistan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_003
+    name: Afghanistan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_004
+    name: Afghanistan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_005
+    name: Afghanistan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_006
+    name: Afghanistan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_007
+    name: Afghanistan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_008
+    name: Afghanistan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_009
+    name: Afghanistan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_010
+    name: Afghanistan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_011
+    name: Afghanistan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_012
+    name: Afghanistan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_013
+    name: Afghanistan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_014
+    name: Afghanistan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_015
+    name: Afghanistan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_016
+    name: Afghanistan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_017
+    name: Afghanistan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_018
+    name: Afghanistan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_019
+    name: Afghanistan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_020
+    name: Afghanistan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_021
+    name: Afghanistan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_022
+    name: Afghanistan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_023
+    name: Afghanistan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_024
+    name: Afghanistan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_025
+    name: Afghanistan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_026
+    name: Afghanistan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_027
+    name: Afghanistan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_028
+    name: Afghanistan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_029
+    name: Afghanistan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_030
+    name: Afghanistan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_031
+    name: Afghanistan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_032
+    name: Afghanistan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_033
+    name: Afghanistan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_034
+    name: Afghanistan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_035
+    name: Afghanistan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_036
+    name: Afghanistan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_037
+    name: Afghanistan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_038
+    name: Afghanistan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_039
+    name: Afghanistan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_040
+    name: Afghanistan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_041
+    name: Afghanistan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_042
+    name: Afghanistan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_043
+    name: Afghanistan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_044
+    name: Afghanistan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_045
+    name: Afghanistan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_046
+    name: Afghanistan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_047
+    name: Afghanistan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_048
+    name: Afghanistan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_049
+    name: Afghanistan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_050
+    name: Afghanistan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_051
+    name: Afghanistan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_052
+    name: Afghanistan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_053
+    name: Afghanistan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_054
+    name: Afghanistan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_055
+    name: Afghanistan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_056
+    name: Afghanistan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_057
+    name: Afghanistan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_058
+    name: Afghanistan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_059
+    name: Afghanistan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_060
+    name: Afghanistan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_061
+    name: Afghanistan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_062
+    name: Afghanistan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_063
+    name: Afghanistan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_064
+    name: Afghanistan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_065
+    name: Afghanistan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_066
+    name: Afghanistan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_067
+    name: Afghanistan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_068
+    name: Afghanistan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_069
+    name: Afghanistan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_070
+    name: Afghanistan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_071
+    name: Afghanistan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_072
+    name: Afghanistan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_073
+    name: Afghanistan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_074
+    name: Afghanistan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_075
+    name: Afghanistan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_076
+    name: Afghanistan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_077
+    name: Afghanistan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_078
+    name: Afghanistan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_079
+    name: Afghanistan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_080
+    name: Afghanistan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_081
+    name: Afghanistan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_082
+    name: Afghanistan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_083
+    name: Afghanistan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_084
+    name: Afghanistan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_085
+    name: Afghanistan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_086
+    name: Afghanistan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_087
+    name: Afghanistan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_088
+    name: Afghanistan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_089
+    name: Afghanistan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_090
+    name: Afghanistan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_091
+    name: Afghanistan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_092
+    name: Afghanistan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_093
+    name: Afghanistan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_094
+    name: Afghanistan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_095
+    name: Afghanistan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_096
+    name: Afghanistan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_097
+    name: Afghanistan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_098
+    name: Afghanistan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_099
+    name: Afghanistan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_100
+    name: Afghanistan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_101
+    name: Afghanistan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_102
+    name: Afghanistan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_103
+    name: Afghanistan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_104
+    name: Afghanistan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_105
+    name: Afghanistan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_106
+    name: Afghanistan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_107
+    name: Afghanistan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_108
+    name: Afghanistan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_109
+    name: Afghanistan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_110
+    name: Afghanistan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_111
+    name: Afghanistan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_112
+    name: Afghanistan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_113
+    name: Afghanistan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_114
+    name: Afghanistan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_115
+    name: Afghanistan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_116
+    name: Afghanistan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_117
+    name: Afghanistan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_118
+    name: Afghanistan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_119
+    name: Afghanistan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_120
+    name: Afghanistan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_121
+    name: Afghanistan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_122
+    name: Afghanistan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_123
+    name: Afghanistan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_124
+    name: Afghanistan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_125
+    name: Afghanistan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_126
+    name: Afghanistan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_127
+    name: Afghanistan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_128
+    name: Afghanistan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_129
+    name: Afghanistan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_130
+    name: Afghanistan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_131
+    name: Afghanistan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_132
+    name: Afghanistan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_133
+    name: Afghanistan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_134
+    name: Afghanistan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_135
+    name: Afghanistan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_136
+    name: Afghanistan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_137
+    name: Afghanistan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_138
+    name: Afghanistan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_139
+    name: Afghanistan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_140
+    name: Afghanistan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_141
+    name: Afghanistan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_142
+    name: Afghanistan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_143
+    name: Afghanistan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_144
+    name: Afghanistan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_145
+    name: Afghanistan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_146
+    name: Afghanistan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_147
+    name: Afghanistan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_148
+    name: Afghanistan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_149
+    name: Afghanistan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_150
+    name: Afghanistan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_151
+    name: Afghanistan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_152
+    name: Afghanistan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_153
+    name: Afghanistan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_154
+    name: Afghanistan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_155
+    name: Afghanistan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_156
+    name: Afghanistan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_157
+    name: Afghanistan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_158
+    name: Afghanistan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_159
+    name: Afghanistan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_160
+    name: Afghanistan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_161
+    name: Afghanistan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_162
+    name: Afghanistan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_163
+    name: Afghanistan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_164
+    name: Afghanistan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_165
+    name: Afghanistan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_166
+    name: Afghanistan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_167
+    name: Afghanistan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_168
+    name: Afghanistan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_169
+    name: Afghanistan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_170
+    name: Afghanistan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_171
+    name: Afghanistan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_172
+    name: Afghanistan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_173
+    name: Afghanistan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_174
+    name: Afghanistan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_175
+    name: Afghanistan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_176
+    name: Afghanistan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_177
+    name: Afghanistan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_178
+    name: Afghanistan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_179
+    name: Afghanistan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_180
+    name: Afghanistan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_181
+    name: Afghanistan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_182
+    name: Afghanistan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_183
+    name: Afghanistan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_184
+    name: Afghanistan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_185
+    name: Afghanistan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_186
+    name: Afghanistan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_187
+    name: Afghanistan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_188
+    name: Afghanistan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_189
+    name: Afghanistan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_190
+    name: Afghanistan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_191
+    name: Afghanistan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_192
+    name: Afghanistan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_193
+    name: Afghanistan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_194
+    name: Afghanistan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_195
+    name: Afghanistan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_196
+    name: Afghanistan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_197
+    name: Afghanistan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_198
+    name: Afghanistan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_199
+    name: Afghanistan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_200
+    name: Afghanistan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_201
+    name: Afghanistan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_202
+    name: Afghanistan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_203
+    name: Afghanistan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_204
+    name: Afghanistan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_205
+    name: Afghanistan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_206
+    name: Afghanistan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_207
+    name: Afghanistan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_208
+    name: Afghanistan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_209
+    name: Afghanistan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_210
+    name: Afghanistan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_211
+    name: Afghanistan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_212
+    name: Afghanistan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_213
+    name: Afghanistan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_214
+    name: Afghanistan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_215
+    name: Afghanistan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_216
+    name: Afghanistan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_217
+    name: Afghanistan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_218
+    name: Afghanistan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_219
+    name: Afghanistan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_220
+    name: Afghanistan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_221
+    name: Afghanistan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_222
+    name: Afghanistan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_223
+    name: Afghanistan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_224
+    name: Afghanistan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_225
+    name: Afghanistan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_226
+    name: Afghanistan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_227
+    name: Afghanistan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_228
+    name: Afghanistan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_229
+    name: Afghanistan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_230
+    name: Afghanistan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_231
+    name: Afghanistan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_232
+    name: Afghanistan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_233
+    name: Afghanistan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_234
+    name: Afghanistan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_235
+    name: Afghanistan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_236
+    name: Afghanistan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_237
+    name: Afghanistan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_238
+    name: Afghanistan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_239
+    name: Afghanistan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_240
+    name: Afghanistan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_241
+    name: Afghanistan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_242
+    name: Afghanistan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_243
+    name: Afghanistan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_244
+    name: Afghanistan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_245
+    name: Afghanistan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_246
+    name: Afghanistan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_247
+    name: Afghanistan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_248
+    name: Afghanistan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_249
+    name: Afghanistan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_250
+    name: Afghanistan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_251
+    name: Afghanistan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_af_252
+    name: Afghanistan Skill 252
+    status: ACTIVE_SCAFFOLD
