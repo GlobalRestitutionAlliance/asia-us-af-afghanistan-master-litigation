@@ -1,0 +1,11 @@
+source_id,title,url,publisher,source_type,access,notes,legal_review_status
+SRC-001,National Archives - Afghanistan,https://www.archives.gov/research/military/afghanistan-war,National Archives,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-002,Library of Congress - Afghanistan,https://www.loc.gov/search/?q=afghanistan+united+states+war,Library of Congress,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-003,State Dept - Afghanistan,https://www.state.gov/countries-areas/afghanistan/,State Dept,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-004,UN Digital Library - Afghanistan,https://digitallibrary.un.org/search?ln=en&p=afghanistan,UN Digital Library,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-005,UNHCR - Afghanistan,https://www.unhcr.org/countries/afghanistan,UNHCR,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-006,World Bank - Afghanistan,https://data.worldbank.org/country/afghanistan,World Bank,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-007,HRW - Afghanistan,https://www.hrw.org/asia/afghanistan,HRW,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-008,Amnesty - Afghanistan,https://www.amnesty.org/en/location/asia-and-the-pacific/south-asia/afghanistan/,Amnesty,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-009,ICRC - Afghanistan,https://www.icrc.org/en/where-we-work/asia-pacific/afghanistan,ICRC,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-010,UNAMA - UN Assistance Mission in Afghanistan,https://unama.unmissions.org/,UNAMA,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW

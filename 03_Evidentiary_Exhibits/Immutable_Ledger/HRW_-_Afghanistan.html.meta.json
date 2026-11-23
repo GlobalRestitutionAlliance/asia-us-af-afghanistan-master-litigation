@@ -1,0 +1,15 @@
+{
+  "url": "https://www.hrw.org/asia/afghanistan",
+  "final_url": "https://www.hrw.org/asia/afghanistan",
+  "title": "HRW - Afghanistan",
+  "fetched_at": "2026-11-23T14:21:12.437827Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 202200,
+  "sha256": "d0dbad5dca169d6ecf0749ec235e141ede2e50578cc015d0927b848a3fedca24",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
